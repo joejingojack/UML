@@ -1,0 +1,23 @@
+da se napravi uml model na informacionna sistema obslujvashta
+ucheben otdel. Sistemata e prednaznachena da se izpolzva ot 
+inspektorite v ucheben otdel, prepodavatelite i studentite. Vseki
+ima slednite prava:
+
+inspektor: suzdavane na dosieta, iztrivane/redakciq, tursene po
+ime/egn/f.n..., opredelqne na status na studenta - uchasht/prekusnal/otstranen/zavurshil
+Mogat da opredelqt specialnosistete i kursovete i da redaktirat/iztrivat/tursqt takiva.
+Vseki student moje da bude samo v edna specialnost i edin kurs. Suzdavane na dosieta na
+prepodavatelite da redaktirat/iztrivat/tursqt. Da zapisvat disciplini da gi redaktirat/iztrivat
+i da opredelqt koi disciplini ot koi prepodavateli se chetat. Mogat da pravqt razlichni spravki 
+za ocenki na studenti za status na studenti. Mogat da suzdavat protokoli za izpiti za suotveten
+prepodavatel i disciplina.
+
+prepodavatel: pisane na ocenka v suzdaden protokol, pravene na spravki za ocenki, redaktirane/iztrivane.
+
+studenti: mogat da pravqt spravki za ocenki.
+
+Vseki potrebitel na sistemata si ima username i parola.
+
+Napravete use-case diagrama, class diagrama na sistemata, sequence diagrama na scenariq spravka za ocenka ot
+gl.tochka na studenta, activity diagrama na funkcionalnosta suzdavane na dosie na student. Ako imate class s
+dinamichno povedenie napravate state-transition diagrama.

@@ -1,0 +1,16 @@
+Da se napravi uml model za inf sistema za otdavane na koli pod naem. Sistemata e prednaznachena da se izpolzva ot slujitel kato v bazata danni se pazi informaciq za kolite, naemite i naematelite. Sistemata trqbva da predostavq vuzmojnost za naemane na avtomobil ot daden klient i predostavq vuzmojnost za izvurshvane na slednite spravki:
+- koi koli sa naeti v daden moment i ot koi klienti
+- koi klient kakvi koli e naemal 
+- koi koli sa svobodni v daden moment
+- koq kola koga trqbva da bude vurnata
+
+slujitelq sushto shte moje da:
+- dobavq, iztriva, redaktira zapisi za koli, klienti i naemi.
+Vseki slujitel trqbva da ima potrebitelsko ime i parola za dostup do sistemata.
+
+Da se napravqt slednite diagrami:
+-use case;
+-sequence na naemane na kola;
+-activity na spravka za svobodni koli;
+-class diagrama na sistemata;
+-ako ima class s dinamichno povedenie da se napravi state-transition diagrama;
